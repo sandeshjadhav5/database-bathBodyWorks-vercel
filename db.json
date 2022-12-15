@@ -1,9 +1,256 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "products": [
+    {
+      "id": 1,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwcab0bc33/large/026335796.jpg",
+      "name": "Winter Candy Apple",
+      "category": "Body Spray and Mist",
+      "price": 1899
+    },
+    {
+      "id": 2,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwc845679c/large/026338979.jpg",
+      "name": "Winter Candy Apple",
+      "category": "Body_Scrub",
+      "price": 1999
+    },
+    {
+      "id": 3,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwe2e4b6e7/large/026338991.jpg",
+      "name": "Winter Candy Apple",
+      "category": "Shapeable_Soap",
+      "price": 1999
+    },
+    {
+      "id": 4,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw3c1f14ab/large/026338412.jpg",
+      "name": "Winter Candy Apple",
+      "category": "Moisturizing_Body_Wash",
+      "price": 1799
+    },
+    {
+      "id": 5,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw4a0e1e8f/large/026338987.jpg",
+      "name": "Winter Candy Apple",
+      "category": "Body_Lotion",
+      "price": 1999
+    },
+    {
+      "id": 6,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw5e80721d/large/026338400.jpg",
+      "name": "Winter Candy Apple",
+      "category": "Body_Lotion",
+      "price": 1699
+    },
+    {
+      "id": 7,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwf5b6105b/large/026338428.jpg",
+      "name": "Winter Candy Apple",
+      "category": "Body_Lotion",
+      "price": 89.0
+    },
+    {
+      "id": 8,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwd6c7231d/large/026338990.jpg",
+      "name": "Vanilla Bean Noel",
+      "category": "Shapeable_Soap",
+      "price": 1999
+    },
+    {
+      "id": 9,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwed8b6f03/large/026338403.jpg",
+      "name": "Vanilla Bean Noel",
+      "category": "Body_Wash_and_Shower_Gel",
+      "price": 1699
+    },
+    {
+      "id": 10,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw3f7e4b8b/large/026338986.jpg",
+      "name": "Vanilla Bean Noel",
+      "category": "Body_Lotion",
+      "price": 1999
+    },
+    {
+      "id": 11,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwff9f9329/large/026335795.jpg",
+      "name": "Vanilla Bean Noel",
+      "category": "Body_Spray_and_Mist",
+      "price": 1899
+    },
+    {
+      "id": 12,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw60a5cf36/large/026338978.jpg",
+      "name": "Vanilla Bean Noel",
+      "category": "Body_Scrub",
+      "price": 1999
+    },
+    {
+      "id": 13,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwfa3f58fa/large/026335799.jpg",
+      "name": "Vanilla Bean Noel",
+      "category": "Body_Lotion",
+      "price": 1699
+    },
+    {
+      "id": 14,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwaad822f0/large/026338982.jpg",
+      "name": "Vanilla Bean Noel",
+      "category": "Body_Butter",
+      "price": 2499
+    },
+    {
+      "id": 15,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw8912f293/large/026338411.jpg",
+      "name": "Vanilla Bean Noel",
+      "category": "Moisturizing_Body_Wash",
+      "price": 1799
+    },
+    {
+      "id": 16,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw5fafd899/large/026355870.jpg",
+      "name": "Twisted Peppermint",
+      "category": "Body_Lotion",
+      "price": 1699
+    },
+    {
+      "id": 17,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw91b97bc8/large/026347253.jpg",
+      "name": "Snowflakes and Cashmere",
+      "category": "Body_Butter",
+      "price": 2499
+    },
+    {
+      "id": 18,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw28e096e9/large/026346739.jpg",
+      "name": "Snowflakes and Cashmere",
+      "category": "Body_Cream",
+      "price": 1799
+    },
+    {
+      "id": 19,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwbed1a7a6/large/026346731.jpg",
+      "name": "Snowflakes and Cashmere",
+      "category": "Body_Lotion",
+      "price": 1699
+    },
+    {
+      "id": 20,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw5aa4ec47/large/026346727.jpg",
+      "name": "Snowflakes and Cashmere",
+      "category": "Body_Wash_and_Shower_Gel",
+      "price": 1699
+    },
+    {
+      "id": 21,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwf90fa3b2/large/026347249.jpg",
+      "name": "Snowflakes and Cashmere",
+      "category": "Body_Spray_and_Mist",
+      "price": 1899
+    },
+    {
+      "id": 22,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw5eda4480/large/026347245.jpg",
+      "name": "Snowflakes and Cashmere",
+      "category": "Moisturizing_Body_Wash",
+      "price": 1799
+    },
+    {
+      "id": 23,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwd6bc6fa0/large/026347222.jpg",
+      "name": "Winterberry Wonder",
+      "category": "Body_Lotion",
+      "price": 1699
+    },
+    {
+      "id": 24,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dweee9267f/large/026347214.jpg",
+      "name": "Winterberry Wonder",
+      "category": "Body_Wash_and_Shower_Gel",
+      "price": 1699
+    },
+    {
+      "id": 25,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwe36a8976/large/026347230.jpg",
+      "name": "Winterberry Wonder",
+      "category": "Body_Spray_and_Mist",
+      "price": 1899
+    },
+    {
+      "id": 26,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwd09abd21/large/026347238.jpg",
+      "name": "Winterberry Wonder",
+      "category": "Body_Cream",
+      "price": 1799
+    },
+    {
+      "id": 27,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw2af312d9/large/026346726.jpg",
+      "name": "A Thousand Christmas Wishes",
+      "category": "Body_Wash_and_Shower_Gel",
+      "price": 1699
+    },
+    {
+      "id": 28,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw9f850b77/large/026346734.jpg",
+      "name": "A Thousand Christmas Wishes",
+      "category": "Body_Spray_and_Mist",
+      "price": 1899
+    },
+    {
+      "id": 29,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw91d118c2/large/026346730.jpg",
+      "name": "A Thousand Christmas Wishes",
+      "category": "Body_Lotion",
+      "price": 1699
+    },
+    {
+      "id": 30,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw1391c4dd/large/026360448.jpg",
+      "name": "Cotton Candy Champagne",
+      "category": "Body_Wash_and_Shower_Gel",
+      "price": 1699
+    },
+    {
+      "id": 31,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw553719ba/large/026355888.jpg",
+      "name": "Twinkling Midnight Sky",
+      "category": "Body_Cream",
+      "price": 1799
+    },
+    {
+      "id": 32,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwce3946b1/large/026355872.jpg",
+      "name": "Twinkling Midnight Sky",
+      "category": "Body_Lotion",
+      "price": 1699
+    },
+    {
+      "id": 33,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw4a108657/large/026355880.jpg",
+      "name": "Twinkling Midnight Sky",
+      "category": "Body_Spray_and_Mist",
+      "price": 1899
+    },
+    {
+      "id": 34,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw7d7260cd/large/026355864.jpg",
+      "name": "Twinkling Midnight Sky",
+      "category": "Body_Wash_and_Shower+Gel",
+      "price": 1699
+    },
+    {
+      "id": 36,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw8f41fe8d/large/026355873.jpg",
+      "name": "Fireside Flurries",
+      "category": "Body_Lotion",
+      "price": 1699
+    },
+    {
+      "id": 37,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw5e15861d/large/026355889.jpg",
+      "name": "Fireside Flurries",
+      "category": "Body_Cream",
+      "price": 1799
+    }
+  ]
 }
