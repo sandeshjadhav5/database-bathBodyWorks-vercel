@@ -4,7 +4,7 @@
       "id": 1,
       "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwcab0bc33/large/026335796.jpg",
       "name": "Winter Candy Apple",
-      "category": "Body Spray and Mist",
+      "category": "Body_Spray_and_Mist",
       "price": 1899
     },
     {
@@ -45,8 +45,8 @@
     {
       "id": 7,
       "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwf5b6105b/large/026338428.jpg",
-      "name": "Winter Candy Apple",
-      "category": "Body_Lotion",
+      "name": "Spray",
+      "category": "Body_Spray_and_Mist",
       "price": 89.0
     },
     {
@@ -242,7 +242,7 @@
       "id": 35,
       "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw8f41fe8d/large/026355873.jpg",
       "name": "Fireside Flurries",
-      "category": "Body_Lotion",
+      "category": "Body_Wash_and_Shower+Gel",
       "price": 1699
     },
     {
@@ -251,6 +251,19 @@
       "name": "Fireside Flurries",
       "category": "Body_Cream",
       "price": 1700
+    }, {
+      "id": 37,
+      "image": "https://images.forestessentialsindia.com/pub/media/catalog/product/cache/9bb9d677791f8666003e194c8a94aeff/9/4/9459_luxury_sugar_soap_sandalwood_orange_peel_150g_front_1.png",
+      "name": "Soap Vanialla",
+      "category": "Shapeable_Soap",
+      "price": 5700
+    },
+     {
+      "id": 37,
+      "image": "https://m.media-amazon.com/images/I/51Rr9I7ugQL._SX569_.jpg",
+      "name": "Gulab Soap",
+      "category": "Shapeable_Soap",
+      "price": 3500
     }
   ]
 }
